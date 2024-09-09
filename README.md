@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐧Linux enthusiast<br>🌐 Future sysadmin<br>🌱 Learning ZBrush<br>
+🐧Linux enthusiast<br>🌐 Future CTO<br>🌱 Learning Vim<br>
 
 
 # 💻 Tech Stack:

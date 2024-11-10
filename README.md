@@ -10,8 +10,8 @@
 
 | Bug ID    | Summary                                                          | Product        | Component              | Assignee            | Status   | Resolution | Last Updated   |
 |-----------|------------------------------------------------------------------|----------------|------------------------|---------------------|----------|------------|----------------|
-| [1465026](https://bugzilla.mozilla.org/show_bug.cgi?id=1465026) | Font editor: values should be rounded                           | DevTools       | Inspector              | AAR.dev@outlook.com | Assigned | ---        | 22:23:39       |
-| [1921130](https://bugzilla.mozilla.org/show_bug.cgi?id=1921130) | Strip "atlOrigin" on atlassian.net with "Copy Without Site Tracking" | Core           | Privacy: Anti-Tracking | AAR.dev@outlook.com | Assigned | ---        | 20:34:31       |
+| [1465026](https://bugzilla.mozilla.org/show_bug.cgi?id=1465026) | Font editor: values should be rounded                           | DevTools       | Inspector              | AAR.dev@outlook.com | Assigned | ---        | 2024-11-10       |
+| [1921130](https://bugzilla.mozilla.org/show_bug.cgi?id=1921130) | Strip "atlOrigin" on atlassian.net with "Copy Without Site Tracking" | Core           | Privacy: Anti-Tracking | AAR.dev@outlook.com | Assigned | ---        | 2024-11-10      |
 | [1865895](https://bugzilla.mozilla.org/show_bug.cgi?id=1865895) | Typo on about:profiling: "by ALL registered thread" is missing an "s" at the end | DevTools       | Performance Tools (P)  | AAR.dev@outlook.com | Resolved | Fixed      | 2023-12-04     |
 | [1862505](https://bugzilla.mozilla.org/show_bug.cgi?id=1862505) | mar_create.c: do not use 'else' after 'return'                    | Toolkit        | Application Update     | AAR.dev@outlook.com | Resolved | Fixed      | 2023-11-29     |
 

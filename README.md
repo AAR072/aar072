@@ -30,21 +30,24 @@
 
 <h2 align='center'>Skills</h2>
 
-<img align="right" src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" />
 
 **Programming**
 
-<img align="right" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Leetcode-FFA116?logo=leetcode&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Bash-4EAA25?logo=iterm2&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white"/>
+
 
 **Tools**
 
 <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 **Operating Systems**

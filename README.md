@@ -30,8 +30,8 @@
 
 <h2 align='center'>Skills</h2>
 
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" />

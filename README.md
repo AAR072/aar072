@@ -51,7 +51,7 @@
 <hr>
 
 <p align='center'>
-<img src="https://bugzilla-stats-worker.aar072.workers.dev/"/>
+<img src="https://bugzilla-stats-worker.aar072.workers.dev/" width='700'/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aar072&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aar072&theme=gruvbox&hide_border=true" width='700'/>
 </p>

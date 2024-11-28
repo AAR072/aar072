@@ -50,7 +50,7 @@
 <h3 align='center'>📊 Contribution Stats</h3>
 <hr>
 
-![](https://bugzilla-stats-worker.aar072.workers.dev/)<br/>
+<img style='align: center' src="https://bugzilla-stats-worker.aar072.workers.dev/" />
+
 ![](https://github-readme-stats.vercel.app/api?username=aar072&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aar072&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aar072&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

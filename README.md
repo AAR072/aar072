@@ -3,7 +3,6 @@
 </h1>
 
 <p align='center'>
-  A developer from Canada learning every day.
   See my personal website at https://aliakber.pages.dev
 </p>
 

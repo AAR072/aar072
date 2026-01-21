@@ -1,3 +1,3 @@
 <h1 align='center'>
-  <b>See my personal website at https://aliakber.ca</b>
+  <b>See my portfolio at https://portfolio.aliakber.ca</b>
 </h1>

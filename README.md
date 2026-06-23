@@ -1,3 +1,4 @@
 <h1 align='center'>
-  <b>See my writeups at https://blog.aliakber.ca</b>
+  <b>Security Writeups: https://blog.aliakber.ca</b>
+  <b>Web Dev: https://portfolio.aliakber.ca</b>
 </h1>

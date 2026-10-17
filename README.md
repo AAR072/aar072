@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <b>Security Writeups: https://blog.aliakber.ca</b>
+  <b>Security Writeups: https://research.aliakber.ca</b>
 </h1>
 <br>
 <h1 align='center'>
